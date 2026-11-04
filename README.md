@@ -1,5 +1,6 @@
 # Python Projects Showcase
-This repository showcases the many and various Python projects that Nathan Snarr has worked on for his own enjoyment and experience. These projects are related to concepts in math, cryptography, simulation, machine learning, games, and more. Highlights from each project are summarized below. Some summaries reference files that describe projects in more detail.
+This repository showcases some of Nathan Snarr's many Python projects that he has worked on for his own learning and enjoyment. These projects are related to concepts in math, cryptography, simulation, machine learning, and more. Summaries of each project are shown below.
+> There are currently very few project summaries. More are coming soon.
 
 ## Table of Contents
 * [Projects](#projects)
